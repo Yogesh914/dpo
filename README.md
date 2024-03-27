@@ -1,5 +1,5 @@
 # 🤑 Direct Preference Optimization: Your Language Model is Secretly a Reward Model
-[dp_optim.pdf](dp_optim.pdf)<!-- {"embed":"true", "preview":"true"} -->
+Annotated Notes: [dp_optim.pdf](dp_optim.pdf)<!-- {"embed":"true", "preview":"true"} -->
 ## Abstract
 * The aim of the paper is to map between the reward function and optimal reward policies for optimizing model to align with preferences by a single stage policy training approach making it computationally efficient
 * The paper introduces DPO (direct preference optimization) which is their proposal for a more efficient and direct procedure to RLHF
